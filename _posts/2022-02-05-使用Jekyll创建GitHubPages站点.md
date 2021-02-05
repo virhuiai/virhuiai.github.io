@@ -3,7 +3,7 @@ layout: post
 title:  "使用Jekyll创建GitHubPages站点"
 date:   2021-02-05 18:30:07 +0800
 categories: jekyll GitHub-Pages Typora
-typora-root-url: ../../pages
+typora-root-url: ../
 ---
 
 # 类型
@@ -316,3 +316,4 @@ jekyll serve
 
 
 ![image-20210205193253425](/assets/2022-02-05-使用Jekyll创建GitHubPages站点.assets/image-20210205193253425.png)
+
