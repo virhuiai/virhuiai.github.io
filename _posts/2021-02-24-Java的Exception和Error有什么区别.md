@@ -1,17 +1,11 @@
 ---
 layout: post
-title:  "Java的Exception和Error有什么区别"
+title:  "第2讲 | Java的Exception和Error有什么区别（转、重排）"
 date:   2021-02-24 21:36:16 +0800
 categories: Java
 rname-cmd: mv ./_posts/aa.md ./_posts/2021-02-24-Java的Exception和Error有什么区别.md
 typora-root-url: ../
 ---
-
-# 第2讲 | Exception和Error有什么区别？
-
-```
-2018-05-08 杨晓峰
-```
 
 世界上存在永远不会出错的程序吗？也许这只会出现在程序员的梦中。随着编程语言和软件的诞生，异常情况就如影随形地纠缠着我们，只有正确处理好意外情况，才能保证程序的可靠性。
 
