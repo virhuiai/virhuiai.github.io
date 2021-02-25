@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "第15讲 | Java的synchronized和ReentrantLock有什么区别呢？"
+title:  "第15讲 | Java的synchronized和ReentrantLock有什么区别呢？（转、重排）"
 date:   2021-02-25 01:06:16 +0800
 categories: Java 锁
 rname-cmd: mv ./_posts/a.md ./_posts/2021-02-25-Java的synchronized和ReentrantLock有什么区别呢？.md
