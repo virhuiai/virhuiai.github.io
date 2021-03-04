@@ -305,3 +305,11 @@ HanLP(['2021年HanLPv2.1为生产环境带来次世代最先进的多语种NLP�
 docker export -o /Users/virhuiaivirhuiai/Documents/阅读中/自然语言处理/hanlp2_python37.tar virhuiai-nlp-try2
 ```
 
+# Hanlp full
+
+```
+pip install hanlp[full]
+```
+
+![image-20210303194632516](/assets/2021-03-03-Python安装HanLp时使用国内镜像加速3.7.assets/image-20210303194632516.png)
+
